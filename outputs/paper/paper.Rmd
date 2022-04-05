@@ -1,11 +1,9 @@
 ---
 title: "My title"
-subtitle: "My subtitle if needed"
 author: 
-  - First author
-  - Another author
+  - Fengyuan Tang
 thanks: "Code and data are available at: LINK."
-date: "`r format(Sys.time(), '%d %B %Y')`"
+date: "`r format(Sys.time(), '%5 %4 %2022')`"
 abstract: "First sentence. Second sentence. Third sentence. Fourth sentence."
 output:
   bookdown::pdf_document2
