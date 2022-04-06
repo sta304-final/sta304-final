@@ -1,10 +1,10 @@
 ---
-title: "My title"
+title: "The analysis of occupancy rates of beds in the Shelter Support and Housing Administration division's Shelter Management Information System"
 author: 
   - Fengyuan Tang
-thanks: "Code and data are available at: LINK."
+thanks: "Code and data are available at: https://github.com/FengyuanTang/sta304-final.git."
 date: "`r format(Sys.time(), '%5 %4 %2022')`"
-abstract: "First sentence. Second sentence. Third sentence. Fourth sentence."
+abstract: "In this paper, my goal is to analyze the factors that have significant effects on the proportion of actual bed capacity that is occupied for the reporting date. It was found that the number of beds showing as occupied by a shelter user in the Shelter Management Information System and the number of rooms showing as available for occupancy are the two most important contributing factors. There are also some other factors that can influence the proportion of actual bed capacity that is occupied. This matters because it provides updated information about the ways to effectively improve occupancy rates of beds in the shelter and overnight service programs administered by SSHA."
 output:
   bookdown::pdf_document2
 toc: FALSE
